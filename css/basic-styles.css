@@ -6,10 +6,10 @@ body {
 
 h1 {
     font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     color: #8C4771;
     margin-left: 10px;
-    text-shadow: 6px 4px 4px rgba(89,25,59,0.6)
+    text-shadow: 1.5px 1px 1px rgba(89,25,59,0.6)
 }
 
 .container {
